@@ -19,3 +19,5 @@
 <img src="https://skillicons.dev/icons?i=git,bash,linux,debian,vscode,visualstudio" />
 ---
 <p align="center"><i>Have a nice day!</i></p>
+
+![Snake animation](https://github.com/hassanelmaayati/hassanelmaayati/blob/output/github-contribution-grid-snake.svg)
