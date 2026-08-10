@@ -7,7 +7,7 @@
 
 ## About me!
 
-- [University of Bahrain]([https://www.uob.edu.bh/](https://cit.uob.edu.bh/undergraduate/b-sc-in-software-engineering/)) and [General Assembly](https://ga-public-downloads.s3.us-east-1.amazonaws.com/06.200.030+SEB+Full-Time+Bootcamp+syllabus.pdf) Software Engineer Graduate
+- [University of Bahrain](https://cit.uob.edu.bh/undergraduate/b-sc-in-software-engineering/) and [General Assembly](https://ga-public-downloads.s3.us-east-1.amazonaws.com/06.200.030+SEB+Full-Time+Bootcamp+syllabus.pdf) Software Engineer Graduate
 
 <br>
 
