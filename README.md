@@ -1,4 +1,6 @@
-<h1 align="center">[Your Name]</h1>
+<h1 align="center">Tomorrow will be better, and if it isn't, I'll say it again</h1>
+<img width="533" height="300" alt="banner" src="https://github.com/user-attachments/assets/218d9b96-5dd9-423b-b96a-4926dc3dd7b2" />
+
 <p align="center"><i>software engineer · growing quietly, building steadily</i></p>
 
 <br>
