@@ -4,9 +4,6 @@
 
 
 <p align="center"><i>software engineer · growing steadily, building quietly</i></p>
-
-<br>
-
 ## About me!
 
 - [University of Bahrain](https://www.uob.edu.bh/) and [General Assembly](https://ga-public-downloads.s3.us-east-1.amazonaws.com/06.200.030+SEB+Full-Time+Bootcamp+syllabus.pdf) Software Engineer Graduate
