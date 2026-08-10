@@ -14,13 +14,8 @@
 ### stack
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=java,cs,js,html,css,bootstrap" />
-  <br />
-  <img src="https://skillicons.dev/icons?i=git,react,nodejs,express,mongodb" />
-  <br />
-  <img src="https://skillicons.dev/icons?i=python,django,postgres" />
+  <img src="https://skillicons.dev/icons?i=java,cs,js,bootstrap,html,css,git,react,nodejs,express,mongodb,python,django,postgres" />
 </p>
-
 <br>
 
 ---
