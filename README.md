@@ -1,5 +1,6 @@
 <h1 align="center">Tomorrow will be better, and if it isn't, I'll say it again</h1>
-<img align="center" width="2304" height="1296" alt="pic3" src="https://github.com/user-attachments/assets/255012d9-e6d0-409f-b7ff-a82bbe8116f0" />
+<img width="2304" height="699" alt="pic3" src="https://github.com/user-attachments/assets/eb12b0c5-83c1-4c05-930b-5c32e3103889" />
+
 
 
 <p align="center"><i>software engineer · growing quietly, building steadily</i></p>
