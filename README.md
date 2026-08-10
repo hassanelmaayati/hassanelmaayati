@@ -3,35 +3,28 @@
 
 
 
-<p align="center"><i>software engineer · growing quietly, building steadily</i></p>
+<p align="center"><i>software engineer · growing steadily, building quietly</i></p>
 
 <br>
 
-### about
+## About me!
 
-- currently working on **[project]**
-- learning **[skill]**
-- rooted in **[favorite stack / language]**
-- reach me at **[email or link]**
+- [University of Bahrain](https://www.uob.edu.bh/) and [General Assembly](https://ga-public-downloads.s3.us-east-1.amazonaws.com/06.200.030+SEB+Full-Time+Bootcamp+syllabus.pdf) Software Engineer Graduate
 
 <br>
 
 ### stack
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=js,ts,react,python,git" />
-</p>
-
-<br>
-
-### currently
-
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&hide_border=true&theme=solarized-light" alt="stats" />
+  <img src="https://skillicons.dev/icons?i=java,cs,js,html,css,bootstrap" />
+  <br />
+  <img src="https://skillicons.dev/icons?i=git,react,nodejs,express,mongodb" />
+  <br />
+  <img src="https://skillicons.dev/icons?i=python,django,postgres" />
 </p>
 
 <br>
 
 ---
 
-<p align="center"><i>still becoming.</i></p>
+<p align="center"><i>Have a nice day!</i></p>
