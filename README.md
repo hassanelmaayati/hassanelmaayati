@@ -6,15 +6,18 @@
 
 <br>
 
-<table> <tr> <td width="280" valign="top"> <img width="270" height="480" alt="giphy" src="https://github.com/user-attachments/assets/26117085-2241-4724-a0d3-7dfb56afb3e6" /> </td> <td valign="top">
-𝙻𝚊𝚗𝚐𝚞𝚊𝚐𝚎𝚜
+### 𝙻𝚊𝚗𝚐𝚞𝚊𝚐𝚎𝚜
 <img src="https://skillicons.dev/icons?i=java,cs,js,py" />
-𝙵𝚛𝚊𝚖𝚎𝚠𝚘𝚛𝚔𝚜 & 𝙻𝚒𝚋𝚛𝚊𝚛𝚒𝚎𝚜
+
+### 𝙵𝚛𝚊𝚖𝚎𝚠𝚘𝚛𝚔𝚜 & 𝙻𝚒𝚋𝚛𝚊𝚛𝚒𝚎𝚜
 <img src="https://skillicons.dev/icons?i=react,nodejs,express,django,bootstrap" />
-𝙳𝚊𝚝𝚊𝚋𝚊𝚜𝚎𝚜
+
+### 𝙳𝚊𝚝𝚊𝚋𝚊𝚜𝚎𝚜
 <img src="https://skillicons.dev/icons?i=mongodb,postgres,mysql" />
-𝚃𝚘𝚘𝚕𝚜 & 𝙾𝚂
-<img src="https://skillicons.dev/icons?i=git,bash,linux,debian,vscode,visualstudio" /> </td> </tr> </table>
+
+### 𝚃𝚘𝚘𝚕𝚜 & 𝙾𝚂
+<img src="https://skillicons.dev/icons?i=git,bash,linux,debian,vscode,visualstudio" />
+
 ---
 
 <img alt="snake" src="https://raw.githubusercontent.com/hassanelmaayati/hassanelmaayati/output/github-contribution-grid-snake.svg" />
