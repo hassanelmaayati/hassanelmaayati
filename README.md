@@ -20,4 +20,4 @@
 ---
 <p align="center"><i>Have a nice day!</i></p>
 
-![Snake animation](https://github.com/hassanelmaayati/hassanelmaayati/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://raw.githubusercontent.com/hassanelmaayati/hassanelmaayati/output/github-contribution-grid-snake.svg)
