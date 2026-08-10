@@ -13,17 +13,12 @@
 
 ### stack
 
-<table>
-  <tr>
-    <td width="50%" valign="top">
-      <img src="https://skillicons.dev/icons?i=java,cs,js,bootstrap,html,css,git" /><br/>
-      <img src="https://skillicons.dev/icons?i=react,nodejs,express,mongodb,python,django,postgres" />
-    </td>
-    <td width="50%" valign="top" align="right">
-      <img width="400" alt="pic1" src="https://github.com/user-attachments/assets/509f5b55-0619-40fc-a363-2fce06bbd335" />
-    </td>
-  </tr>
-</table>
+<img align="right" width="400" alt="pic1" src="https://github.com/user-attachments/assets/509f5b55-0619-40fc-a363-2fce06bbd335" />
+
+<img src="https://skillicons.dev/icons?i=java,cs,js,bootstrap,html,css,git" /><br/>
+<img src="https://skillicons.dev/icons?i=react,nodejs,express,mongodb,python,django,postgres" />
+
+<br clear="both"/>
 
 ---
 <img width="1861" height="451" alt="pic2" src="https://github.com/user-attachments/assets/cf26ab51-b0e0-4a0a-ae44-71c470441ce5" />
