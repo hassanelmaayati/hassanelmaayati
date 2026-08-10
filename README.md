@@ -17,7 +17,15 @@
 
 ### Tools & OS
 <img src="https://skillicons.dev/icons?i=git,bash,linux,debian,vscode,visualstudio" />
----
-<p align="center"><i>Have a nice day!</i></p>
 
-![Snake animation](https://raw.githubusercontent.com/hassanelmaayati/hassanelmaayati/output/github-contribution-grid-snake.svg)
+---
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/hassanelmaayati/hassanelmaayati/output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/hassanelmaayati/hassanelmaayati/output/github-contribution-grid-snake.svg" />
+  <img alt="snake" src="https://raw.githubusercontent.com/hassanelmaayati/hassanelmaayati/output/github-contribution-grid-snake.svg" />
+</picture>
+
+---
+
+<p align="center"><i>Have a nice day!</i></p>
