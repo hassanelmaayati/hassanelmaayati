@@ -10,14 +10,18 @@
 - [University of Bahrain](https://cit.uob.edu.bh/undergraduate/b-sc-in-software-engineering/) and [General Assembly](https://ga-public-downloads.s3.us-east-1.amazonaws.com/06.200.030+SEB+Full-Time+Bootcamp+syllabus.pdf) Software Engineer Graduate
 
 <br>
+### Languages
+<img src="https://skillicons.dev/icons?i=java,cs,js,py" />
 
-### stack
-<img src="https://skillicons.dev/icons?i=java,cs,js,bootstrap,html,css,git" /><br/>
-<img src="https://skillicons.dev/icons?i=react,nodejs,express,mongodb,python,django,postgres" />
+### Frameworks & Libraries
+<img src="https://skillicons.dev/icons?i=react,nodejs,express,django,bootstrap" />
 
-<br/>
+### Databases
+<img src="https://skillicons.dev/icons?i=mongodb,postgres,mysql" />
+
+### Tools & OS
+<img src="https://skillicons.dev/icons?i=git,bash,linux,debian,vscode,visualstudio" />
 
 ---
-<img width="1861" height="451" alt="pic2" src="https://github.com/user-attachments/assets/cf26ab51-b0e0-4a0a-ae44-71c470441ce5" />
 
 <p align="center"><i>Have a nice day!</i></p>
