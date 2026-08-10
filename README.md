@@ -20,8 +20,7 @@
 
 ---
 
-<img alt="snake" src="https://raw.githubusercontent.com/hassanelmaayati/hassanelmaayati/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only" />
-<img alt="snake" src="https://raw.githubusercontent.com/hassanelmaayati/hassanelmaayati/output/github-contribution-grid-snake.svg#gh-light-mode-only" />
+<img alt="snake" src="https://raw.githubusercontent.com/hassanelmaayati/hassanelmaayati/output/github-contribution-grid-snake.svg" />
 
 ---
 
