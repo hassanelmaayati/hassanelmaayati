@@ -8,10 +8,13 @@
 
 ### Languages
 <img src="https://skillicons.dev/icons?i=java,cs,js,py" />
+
 ### Frameworks & Libraries
 <img src="https://skillicons.dev/icons?i=react,nodejs,express,django,bootstrap" />
+
 ### Databases
 <img src="https://skillicons.dev/icons?i=mongodb,postgres,mysql" />
+
 ### Tools & OS
 <img src="https://skillicons.dev/icons?i=git,bash,linux,debian,vscode,visualstudio" />
 ---
