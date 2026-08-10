@@ -1,8 +1,5 @@
 <h1 align="center">Tomorrow will be better, and if it isn't, I'll say it again</h1>
 <img width="2304" height="699" alt="pic3" src="https://github.com/user-attachments/assets/eb12b0c5-83c1-4c05-930b-5c32e3103889" />
-
-
-
 <p align="center"><i>· growing steadily, building quietly ·</i></p>
 
 ### A Little Bit About Me
@@ -14,10 +11,9 @@ current_job: Open to work — Software Engineer
 
 education:
   [
-```
-    ["Software Engineering Bootcamp — General Assembly"](https://cit.uob.edu.bh/undergraduate/b-sc-in-software-engineering/),
-    ["B.Sc. Software Engineering — University of Bahrain"](https://ga-public-downloads.s3.us-east-1.amazonaws.com/06.200.030+SEB+Full-Time+Bootcamp+syllabus.pdf),
-```  ]
+    "Software Engineering Bootcamp — General Assembly",
+    "B.Sc. Software Engineering — University of Bahrain",
+  ]
 
 fields_of_interest:
   [
