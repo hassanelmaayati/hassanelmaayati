@@ -1,4 +1,3 @@
-<h1 align="center">𝚃𝚘𝚖𝚘𝚛𝚛𝚘𝚠 𝚠𝚒𝚕𝚕 𝚋𝚎 𝚋𝚎𝚝𝚝𝚎𝚛, 𝚊𝚗𝚍 𝚒𝚏 𝚒𝚝 𝚒𝚜𝚗'𝚝, 𝙸'𝚕𝚕 𝚜𝚊𝚢 𝚒𝚝 𝚊𝚐𝚊𝚒𝚗</h1>
 <img width="2304" height="699" alt="pic3" src="https://github.com/user-attachments/assets/eb12b0c5-83c1-4c05-930b-5c32e3103889" />
 <p align="center"><i>· 𝚐𝚛𝚘𝚠𝚒𝚗𝚐 𝚜𝚝𝚎𝚊𝚍𝚒𝚕𝚢, 𝚋𝚞𝚒𝚕𝚍𝚒𝚗𝚐 𝚚𝚞𝚒𝚎𝚝𝚕𝚢 ·</i></p>
 
