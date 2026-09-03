@@ -1,5 +1,5 @@
 <img width="2304" height="699" alt="pic3" src="https://github.com/user-attachments/assets/eb12b0c5-83c1-4c05-930b-5c32e3103889" />
-<p align="center"><i>· 𝚐𝚛𝚘𝚠𝚒𝚗𝚐 𝚜𝚝𝚎𝚊𝚍𝚒𝚕𝚢, 𝚋𝚞𝚒𝚕𝚍𝚒𝚗𝚐 𝚚𝚞𝚒𝚎𝚝𝚕𝚢 ·</i></p>
+<p align="center"><i>· Make it work, Then make it better ·</i></p>
 
 - ### [𝚄𝚗𝚒𝚟𝚎𝚛𝚜𝚒𝚝𝚢 𝙾𝚏 𝙱𝚊𝚑𝚛𝚊𝚒𝚗](https://cit.uob.edu.bh/undergraduate/b-sc-in-software-engineering/) and [𝘎𝘦𝘯𝘦𝘳𝘢𝘭 𝘈𝘴𝘴𝘦𝘮𝘣𝘭𝘺](https://ga-public-downloads.s3.us-east-1.amazonaws.com/06.200.030+SEB+Full-Time+Bootcamp+syllabus.pdf) 𝚂𝚘𝚏𝚝𝚠𝚊𝚛𝚎 𝙴𝚗𝚐𝚒𝚗𝚎𝚎𝚛 𝙶𝚛𝚊𝚍𝚞𝚊𝚝𝚎
 
