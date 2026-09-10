@@ -1,30 +1,67 @@
+<div align="center">
 
-<img width="4032" height="3024" alt="torsten-dederichs-7ga_TZJVCJM-unsplash" src="https://github.com/user-attachments/assets/3f92bf88-40ce-425a-8b33-a2fecba9df7d" />                                        <i>· Make it work, Then make it better ·</i></p>
+<img width="100%" alt="banner" src="https://github.com/user-attachments/assets/3f92bf88-40ce-425a-8b33-a2fecba9df7d" />
 
-- ### [𝚄𝚗𝚒𝚟𝚎𝚛𝚜𝚒𝚝𝚢 𝙾𝚏 𝙱𝚊𝚑𝚛𝚊𝚒𝚗](https://cit.uob.edu.bh/undergraduate/b-sc-in-software-engineering/) and [𝘎𝘦𝘯𝘦𝘳𝘢𝘭 𝘈𝘴𝘴𝘦𝘮𝘣𝘭𝘺](https://ga-public-downloads.s3.us-east-1.amazonaws.com/06.200.030+SEB+Full-Time+Bootcamp+syllabus.pdf) 𝚂𝚘𝚏𝚝𝚠𝚊𝚛𝚎 𝙴𝚗𝚐𝚒𝚗𝚎𝚎𝚛 𝙶𝚛𝚊𝚍𝚞𝚊𝚝𝚎
+<br />
 
-<br>
+### Hassan El Maayati
 
-### 𝙻𝚊𝚗𝚐𝚞𝚊𝚐𝚎𝚜
+*Make it work, then make it better.*
+
+</div>
+
+<br />
+
+## Background
+
+**Software Engineering Graduate** — [University of Bahrain](https://cit.uob.edu.bh/undergraduate/b-sc-in-software-engineering/) · [General Assembly](https://ga-public-downloads.s3.us-east-1.amazonaws.com/06.200.030+SEB+Full-Time+Bootcamp+syllabus.pdf)
+
+<br />
+
+## Tech Stack
+
+**Languages**
+<br />
 <img src="https://skillicons.dev/icons?i=java,cs,js,py" />
 
-### 𝙵𝚛𝚊𝚖𝚎𝚠𝚘𝚛𝚔𝚜 & 𝙻𝚒𝚋𝚛𝚊𝚛𝚒𝚎𝚜
+**Frameworks & Libraries**
+<br />
 <img src="https://skillicons.dev/icons?i=react,nodejs,express,django,bootstrap" />
 
-### 𝙳𝚊𝚝𝚊𝚋𝚊𝚜𝚎𝚜
+**Databases**
+<br />
 <img src="https://skillicons.dev/icons?i=mongodb,postgres,mysql" />
 
-### 𝚃𝚘𝚘𝚕𝚜 & 𝙾𝚂
+**Tools & OS**
+<br />
 <img src="https://skillicons.dev/icons?i=git,bash,linux,debian,vscode,visualstudio" />
 
----
+<br />
+
+## GitHub Stats
+
+<div align="center">
+
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=hassanelmaayati&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hassanelmaayati&layout=compact&theme=tokyonight&hide_border=true" />
+
+</div>
+
+<br />
+
+## Contribution Snake
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/hassanelmaayati/hassanelmaayati/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/hassanelmaayati/hassanelmaayati/output/github-contribution-grid-snake.svg">
-  <img alt="snake" src="https://raw.githubusercontent.com/hassanelmaayati/hassanelmaayati/output/github-contribution-grid-snake.svg">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/hassanelmaayati/hassanelmaayati/output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/hassanelmaayati/hassanelmaayati/output/github-contribution-grid-snake.svg" />
+  <img alt="contribution snake animation" src="https://raw.githubusercontent.com/hassanelmaayati/hassanelmaayati/output/github-contribution-grid-snake.svg" />
 </picture>
+
+<br />
+<br />
 
 ---
 
-<p align="center"><i>𝙷𝚊𝚟𝚎 𝚊 𝚗𝚒𝚌𝚎 𝚍𝚊𝚢!</i></p>
+<p align="center">
+  <i>Have a nice day! 👋</i>
+</p>
