@@ -1,5 +1,5 @@
-<i>· Make it work, Then make it better ·</i></p>
-<img width="4032" height="3024" alt="torsten-dederichs-7ga_TZJVCJM-unsplash" src="https://github.com/user-attachments/assets/3f92bf88-40ce-425a-8b33-a2fecba9df7d" />
+
+<img width="4032" height="3024" alt="torsten-dederichs-7ga_TZJVCJM-unsplash" src="https://github.com/user-attachments/assets/3f92bf88-40ce-425a-8b33-a2fecba9df7d" /><i>· Make it work, Then make it better ·</i></p>
 
 - ### [𝚄𝚗𝚒𝚟𝚎𝚛𝚜𝚒𝚝𝚢 𝙾𝚏 𝙱𝚊𝚑𝚛𝚊𝚒𝚗](https://cit.uob.edu.bh/undergraduate/b-sc-in-software-engineering/) and [𝘎𝘦𝘯𝘦𝘳𝘢𝘭 𝘈𝘴𝘴𝘦𝘮𝘣𝘭𝘺](https://ga-public-downloads.s3.us-east-1.amazonaws.com/06.200.030+SEB+Full-Time+Bootcamp+syllabus.pdf) 𝚂𝚘𝚏𝚝𝚠𝚊𝚛𝚎 𝙴𝚗𝚐𝚒𝚗𝚎𝚎𝚛 𝙶𝚛𝚊𝚍𝚞𝚊𝚝𝚎
 
