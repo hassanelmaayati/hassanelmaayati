@@ -67,6 +67,4 @@
 
 ---
 
-<p align="center">
-  <i>Have a nice day! 👋</i>
-</p>
+
