@@ -26,6 +26,8 @@
 **Software Engineering Graduate** — [University of Bahrain](https://cit.uob.edu.bh/undergraduate/b-sc-in-software-engineering/) · [General Assembly](https://ga-public-downloads.s3.us-east-1.amazonaws.com/06.200.030+SEB+Full-Time+Bootcamp+syllabus.pdf)
 
 <br />
+<img width="100%" alt="3d contribution graph" src="./profile-3d-contrib/profile-green-animate.svg" />
+<br />
 
 ## Tech Stack
 
@@ -54,9 +56,7 @@
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/hassanelmaayati/hassanelmaayati/output/github-contribution-grid-snake.svg" />
   <img alt="contribution snake animation" src="https://raw.githubusercontent.com/hassanelmaayati/hassanelmaayati/output/github-contribution-grid-snake.svg" />
 </picture>
-<br />
-<img width="100%" alt="3d contribution graph" src="./profile-3d-contrib/profile-night-rainbow.svg" />
-<br />
+
 <br />
 
 ---
