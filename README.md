@@ -37,7 +37,8 @@
 
 **Backend & APIs**
 <br />
-<img src="https://skillicons.dev/icons?i=nodejs,express,django,fastapi,swagger,postman" />
+<img src="https://skillicons.dev/icons?i=nodejs,express,django,fastapi,postman" />
+<a href="#"><img height="48" src="https://img.shields.io/badge/Swagger-85EA2D?style=flat-square&logo=swagger&logoColor=black" /></a>
 
 **Databases**
 <br />
