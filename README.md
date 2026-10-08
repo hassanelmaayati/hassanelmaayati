@@ -1,5 +1,3 @@
-
-
 <table>
 <tr>
 <td width="55%" valign="middle">
@@ -41,9 +39,14 @@
 <br />
 <img src="https://skillicons.dev/icons?i=mongodb,postgres,mysql" />
 
+**Auth & Cloud Services**
+<br />
+<img src="https://skillicons.dev/icons?i=gcp,firebase" />
+<img src="https://img.shields.io/badge/Google_OAuth-4285F4?style=for-the-badge&logo=google&logoColor=white" />
+
 **Tools & OS**
 <br />
-<img src="https://skillicons.dev/icons?i=git,bash,linux,debian,vscode,visualstudio" />
+<img src="https://skillicons.dev/icons?i=git,bash,linux,debian,ubuntu,docker,vscode,visualstudio" />
 
 <br />
 
