@@ -33,16 +33,19 @@
 
 **Frontend**
 <br />
-<img src="https://skillicons.dev/icons?i=react,bootstrap,html,css" />
+<img src="https://skillicons.dev/icons?i=react,vite,bootstrap,html,css" />
 
 **Backend & APIs**
 <br />
 <img src="https://skillicons.dev/icons?i=nodejs,express,django,fastapi,postman" />
 <a href="#"><img height="48" src="https://img.shields.io/badge/Swagger-85EA2D?style=flat-square&logo=swagger&logoColor=black" /></a>
+<a href="#"><img height="48" src="https://img.shields.io/badge/WebSockets-010101?style=flat-square&logo=socketdotio&logoColor=white" /></a>
 
 **Databases**
 <br />
 <img src="https://skillicons.dev/icons?i=mongodb,postgres,mysql,supabase" />
+<a href="#"><img height="48" src="https://img.shields.io/badge/PostGIS-336791?style=flat-square&logo=postgresql&logoColor=white" /></a>
+<a href="#"><img height="48" src="https://img.shields.io/badge/Alembic-333333?style=flat-square&logo=python&logoColor=white" /></a>
 
 **Auth & Cloud Services**
 <br />
@@ -50,12 +53,17 @@
 
 **DevOps & Deployment**
 <br />
-<img src="https://skillicons.dev/icons?i=docker,git,vercel" />
+<img src="https://skillicons.dev/icons?i=docker,git,vercel,githubactions" />
+<a href="#"><img height="48" src="https://img.shields.io/badge/Render-46E3B7?style=flat-square&logo=render&logoColor=black" /></a>
+
+**Testing**
+<br />
+<a href="#"><img height="48" src="https://img.shields.io/badge/Pytest-0A9EDC?style=flat-square&logo=pytest&logoColor=white" /></a>
+<a href="#"><img height="48" src="https://img.shields.io/badge/Vitest-6E9F18?style=flat-square&logo=vitest&logoColor=white" /></a>
 
 **Tools & OS**
 <br />
 <img src="https://skillicons.dev/icons?i=bash,linux,debian,ubuntu,vscode,visualstudio" />
-
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/hassanelmaayati/hassanelmaayati/output/github-contribution-grid-snake-dark.svg" />
