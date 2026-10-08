@@ -37,33 +37,23 @@
 
 **Backend & APIs**
 <br />
-<img src="https://skillicons.dev/icons?i=nodejs,express,django,fastapi" />
-<a href="#"><img height="48" src="https://img.shields.io/badge/Swagger-85EA2D?style=flat-square&logo=swagger&logoColor=black" /></a>
-<a href="#"><img height="48" src="https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white" /></a>
+<img src="https://skillicons.dev/icons?i=nodejs,express,django,fastapi,swagger,postman" />
 
 **Databases**
 <br />
-<img src="https://skillicons.dev/icons?i=mongodb,postgres,mysql" />
-<a href="#"><img height="48" src="https://img.shields.io/badge/PostGIS-31648C?style=flat-square&logo=postgresql&logoColor=white" /></a>
-<a href="#"><img height="48" src="https://img.shields.io/badge/Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=white" /></a>
+<img src="https://skillicons.dev/icons?i=mongodb,postgres,mysql,supabase" />
 
 **Auth & Cloud Services**
 <br />
 <img src="https://skillicons.dev/icons?i=gcp,firebase" />
-<a href="#"><img height="48" src="https://img.shields.io/badge/Google_OAuth-4285F4?style=flat-square&logo=google&logoColor=white" /></a>
 
 **DevOps & Deployment**
 <br />
-<img src="https://skillicons.dev/icons?i=docker,git" />
-<a href="#"><img height="48" src="https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white" /></a>
-<a href="#"><img height="48" src="https://img.shields.io/badge/Render-46E3B7?style=flat-square&logo=render&logoColor=white" /></a>
+<img src="https://skillicons.dev/icons?i=docker,git,vercel" />
 
 **Tools & OS**
 <br />
 <img src="https://skillicons.dev/icons?i=bash,linux,debian,ubuntu,vscode,visualstudio" />
-
-<br />
-
 
 
 <picture>
