@@ -1,19 +1,7 @@
-<table>
-<tr>
-<td width="55%" valign="middle">
 
 ### Hassan El Maayati
 
 *Make it work, then make it better.*
-
-</td>
-<td width="45%">
-
-<img width="100%" alt="banner" src="https://github.com/user-attachments/assets/3f92bf88-40ce-425a-8b33-a2fecba9df7d" />
-
-</td>
-</tr>
-</table>
 
 <br />
 
